@@ -8,7 +8,7 @@
 
 ## 🌸 About Me
 
-- 🎓 **im currently a Second year BTech student.**
+- 🎓 **I'm currently a Second year BTech student.**
 - 💡 Always curious and eager to learn new tech
 - 🤝 Love collaborating and building fun projects
 - 🌱 Currently stepping up my coding and software dev skills!
