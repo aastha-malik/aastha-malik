@@ -70,3 +70,5 @@
 ---
 
 <p align="center"><b>🌷 Thanks for visiting my profile! Let's connect and create something amazing. 🌷</b></p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=aastha-malik&color=6C63FF)
