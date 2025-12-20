@@ -64,7 +64,7 @@
 <p align="center">
   <a href="mailto:aasthamalik1810@gmail.com">aasthamalik1810@gmail.com</a> · 
   <a href="https://github.com/aastha-malik">GitHub</a> · 
-  <a href="https://in.linkedin.com/in/aasthamalik1">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aastha-malik-587a79323/">LinkedIn</a>
 </p>
 
 ---
