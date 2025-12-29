@@ -29,16 +29,6 @@
 
 ---
 
-## 📚 My DSA Journey
-
-- I'm actively working on sharpening my Data Structures & Algorithms skills!
-- Track my progress & solutions here:  
-  <a href="https://github.com/aastha-malik/My-LeetCode-Journey">
-    <img src="https://img.shields.io/badge/My%20LeetCode%20Journey-8B5CF6?style=flat-square&logo=leetcode&logoColor=white"/>
-  </a>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -62,7 +52,7 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:aasthamalik1810@gmail.com">aasthamalik1810@gmail.com</a> · 
+  <a href="mailto:aasthamalik1810@gmail.com">aasthamalik.work@gmail.com</a> · 
   <a href="https://github.com/aastha-malik">GitHub</a> · 
   <a href="https://www.linkedin.com/in/aastha-malik-587a79323/">LinkedIn</a>
 </p>
