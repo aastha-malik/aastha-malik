@@ -1,4 +1,3 @@
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff00&height=230&section=header&text=Aastha%20Malik&fontColor=00ff00&fontSize=60&fontAlignY=30&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Building%20What%20Runs%20Behind%20the%20Scenes&descColor=a0ffa0&descAlignY=52&descSize=18&animation=twinkling" width="100%" />
 
@@ -94,7 +93,7 @@
 <div align="center">
 <br/>
 
-<a href="https://aastha-malik.vercel.app/">
+<a href="https://aastha-malik-portfolio.onrender.com/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
 </a>
 &nbsp;&nbsp;
