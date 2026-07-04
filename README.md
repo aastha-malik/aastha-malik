@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff3333&height=230&section=header&text=Aastha%20Malik&fontColor=ff3333&fontSize=60&fontAlignY=30&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20PostgreSQL&descColor=ff8585&descAlignY=52&descSize=18&animation=twinkling" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FF3333&center=true&vCenter=true&repeat=true&width=560&height=45&lines=%24+curl+-s+aastha.dev%2Fstatus+%E2%86%92+200+OK%2C+shipping;%24+whoami+%E2%86%92+backend_developer;%24+git+log+--oneline+%E2%86%92+build%2C+ship%2C+repeat" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FF3333&center=true&vCenter=true&repeat=true&width=560&height=45&lines=%24+curl+-s+%2Fstatus+%E2%86%92+200+OK%2C+shipping;%24+whoami+%E2%86%92+backend_developer;%24+git+log+--oneline+%E2%86%92+build%2C+ship%2C+repeat" alt="Typing SVG" /></a>
 
 <a href="mailto:aasthamalik.work@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS-black?style=for-the-badge&labelColor=ff3333&color=0d1117" /></a>
 &nbsp;
