@@ -95,7 +95,7 @@ Built and shipped a full-stack e-commerce platform for a paying client — produ
 <div align="center">
 <br/>
 
-<a href="https://aastha-malik-portfolio.onrender.com/">
+<a href="https://aastha-malik-portfolio.onrender.com/?src=github">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ff3333" height="35" />
 </a>
 &nbsp;&nbsp;
