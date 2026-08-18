@@ -28,14 +28,18 @@ I care about the whole path from idea to production: data models, auth, APIs, ba
 
 ## What I'm building now
 
-### [CaptionFX](https://github.com/aastha-malik) · in development
+### [CaptionFX](https://www.captionfx.com/features) · in development
 
-A video-captioning product that transcribes speech, creates time-aligned captions, lets users edit and style them over the video, and exports a finished video with captions burned in.
+CaptionFX is a video editing tool built around the spoken word. It creates accurate captions for English, Hindi, Hinglish, and Indic languages—then gives creators control over what stays in the video and how it appears.
 
-- Building for English, Hindi, and Indic-language workflows
-- Routing speech to language-specific models instead of relying on one generic model
-- Working across `FastAPI`, `React`, `ffmpeg`, Whisper-based ASR, background jobs, and SSE
-- Shipping and iterating in public
+- Edit, retime, and split captions directly over the playing video
+- Bleep or silence individual words without re-recording the take
+- Cut unwanted words from the video while keeping its timing in sync
+- Translate captions while preserving the meaning of complete sentences
+- Style captions with presets, custom typography, colors, highlights, and positioning
+- Export a ready-to-post MP4 with captions permanently added to the video
+
+[Explore all CaptionFX features →](https://www.captionfx.com/features)
 
 ## Selected work
 
