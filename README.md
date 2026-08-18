@@ -39,7 +39,7 @@ CaptionFX is a video editing tool built around the spoken word. It creates accur
 - Style captions with presets, custom typography, colors, highlights, and positioning
 - Export a ready-to-post MP4 with captions permanently added to the video
 
-[Explore all CaptionFX features →](https://www.captionfx.com/features)
+[Explore all features →](https://www.captionfx.com/features) · [Follow CaptionFX on X →](https://x.com/captionfx)
 
 ## Selected work
 
