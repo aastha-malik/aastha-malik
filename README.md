@@ -70,16 +70,6 @@ CaptionFX is a video editing tool built around the spoken word. It creates accur
 
 </div>
 
-## GitHub at a glance
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aastha-malik&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=ffffff&include_all_commits=true" alt="Aastha's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-malik&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=ffffff&langs_count=6" alt="Aastha's most used languages" />
-
-</div>
-
-> The language card reflects repository bytes, not skill level — video and ML projects naturally skew toward Python.
 
 ## Let's talk
 
