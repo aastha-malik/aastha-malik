@@ -28,7 +28,7 @@ I care about the whole path from idea to production: data models, auth, APIs, ba
 
 ## What I'm building now
 
-### [CaptionFX](https://www.captionfx.com/) · in development
+### [CaptionFX](https://www.captionfx.com/) · live
 
 CaptionFX is a video editing tool built around the spoken word. It creates accurate captions for English, Hindi, Hinglish, and Indic languages—then gives creators control over what stays in the video and how it appears.
 
