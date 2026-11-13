@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ff3333)](https://aastha-malik-portfolio.onrender.com/?src=github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff3333)](https://www.linkedin.com/in/aastha-malik-/)
 [![X](https://img.shields.io/badge/Build_in_public-0d1117?style=for-the-badge&logo=x&logoColor=ff3333)](https://x.com/aastha__malik)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff3333)](https://www.instagram.com/aasthamalikbuilds/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff3333)](mailto:aasthamalik.work@gmail.com)
 
 ![Open to internships](https://img.shields.io/badge/Open_to-SWE_%2F_Backend_Internships-ff3333?style=flat-square)
@@ -20,31 +21,17 @@
 name: Aastha Malik
 education: B.Tech CSE @ GGSIPU, Delhi — 2028
 focus: Backend engineering, product development, applied ML
-currently_building: CaptionFX — a caption video editor with Indic-language support
 likes: Clean APIs, useful products, honest shipping, learning in public
 ```
 
 I care about the whole path from idea to production: data models, auth, APIs, background jobs, deployment, and the small UX details that decide whether a product feels good to use.
 
-## What I'm building now
-
-### [CaptionFX](https://www.captionfx.com/) · live
-
-CaptionFX is a video editing tool built around the spoken word. It creates accurate captions for English, Hindi, Hinglish, and Indic languages—then gives creators control over what stays in the video and how it appears.
-
-- Edit, retime, and split captions directly over the playing video
-- Bleep or silence individual words without re-recording the take
-- Cut unwanted words from the video while keeping its timing in sync
-- Translate captions while preserving the meaning of complete sentences
-- Style captions with presets, custom typography, colors, highlights, and positioning
-- Export a ready-to-post MP4 with captions permanently added to the video
-
-[Visit CaptionFX →](https://www.captionfx.com/) · [Follow CaptionFX on X →](https://x.com/captionfx)
-
 ## Selected work
 
 | Project | What I built | Stack |
 |---|---|---|
+| [**Topline**](https://github.com/aastha-malik/Topline) | Gmail-based assistant that helps small business owners get paid on time. It picks out invoices from emails and PDFs, keeps track of who owes what, and drafts reminder emails the owner approves before they go out. A customer saying "I already paid" isn't counted as proof — only a real payment confirmation (via Razorpay) is. | Python, FastAPI, PostgreSQL, Gmail API, Gemini |
+| [**CaptionFX**](https://www.captionfx.com/) · *paused* | Video captioning web app for creators: upload a video, get captions, style them, and download the finished video. I focused on turning speech into text using speech-to-text APIs and on the payment system (users buy credits with Razorpay). Also made the database much faster (~90 ms → ~4 ms per request). | Python, FastAPI, React, FFmpeg, Razorpay |
 | [**Tendr**](https://github.com/aastha-malik/Tendr) | Gamified productivity app with tasks, focus sessions, analytics, virtual pets, email OTP, Google OAuth, and 30+ API endpoints. Launched solo on Product Hunt. [Live ↗](https://tendr-tick-treats.onrender.com) | FastAPI, PostgreSQL, React, TypeScript |
 | [**Video Object Remover**](https://github.com/aastha-malik/video-object-removal) | Click-to-remove video pipeline using object segmentation and video inpainting, with streamed progress and Dockerized services. [Demo ↗](https://huggingface.co/spaces/aastha-malik/video-object-remover) | SAM2, ProPainter, FastAPI, Docker |
 | [**ChikitsaCloud**](https://github.com/aastha-malik/ChikitsaCloud) | Team-built medical record platform with secure uploads, QR-based family sharing, nearby hospital discovery, and 35 REST endpoints. | FastAPI, PostgreSQL, Supabase, Flutter |
